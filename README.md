@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Hoang Hiep</h1>
 -->
 
-<img src="src/Title.jpg" width="100%"/>
+<img src="Title.jpg" width="100%"/>
 
 :rocket: **Android, Kotlin + Coroutines** | :bulb: Go
 
