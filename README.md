@@ -13,7 +13,7 @@
 - 🌱 I'm currently researching **KMM** app development and **Jetpack Compose**, which is like a breath of fresh air for me.
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: `It's never too late to learn. In our time, you can learn everything.`
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rodion_belovickiy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodion-belovickiy-722755196/)](https://www.linkedin.com/in/hiepdev/) [![Gmail Badge](https://img.shields.io/badge/-belovickiy.rodion@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hoanghiep.hui@gmail.com)](mailto:hoanghiep.hui@gmail.com)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hoanghiep.hui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodion-belovickiy-722755196/)](https://www.linkedin.com/in/hiepdev/) [![Gmail Badge](https://img.shields.io/badge/-hoanghiep.hui@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hoanghiep.hui@gmail.com)](mailto:hoanghiep.hui@gmail.com)
 
 ### Languages and technologies 
 
